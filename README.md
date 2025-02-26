@@ -1,2 +1,2 @@
-# Project-Managemet-Dashboard-PBI
+# ProjectManagemet Dashboard
 ## Overview
