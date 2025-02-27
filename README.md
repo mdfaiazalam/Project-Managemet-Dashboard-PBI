@@ -11,4 +11,4 @@ This Project Management Dashboard is designed to provide insights into project p
 * Interactive Filters for Projects & Types 🎯
 * Dynamic Visualizations & KPIs 📊
 ## 🖥️ Dashboard Preview
-![Project Management Dashboard]([https://github.com/mdfaiazalam/Employee-Trend-Dashboard-Tableau/blob/main/Employee%20Trend%20Dashboard.png](https://github.com/mdfaiazalam/Project-Managemet-Dashboard-PBI/blob/main/dashboard.png))
+![Project Management Dashboard]([https://github.com/mdfaiazalam/Employee-Trend-Dashboard-Tableau/blob/main/Employee%20Trend%20Dashboard.png](https://github.com/mdfaiazalam/Project-Managemet-Dashboard-PBI/blob/main/dashboard.png)
