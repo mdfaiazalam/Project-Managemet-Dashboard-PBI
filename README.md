@@ -9,6 +9,6 @@ This Project Management Dashboard is designed to provide insights into project p
 * Project Benefit vs Cost Analysis 💡
 * Project Summary with Status & Financials ✅
 * Interactive Filters for Projects & Types 🎯
-* Dynamic Visualizations & KPIs 📊
+* Dynamic Visualizations & KPIs 📊 
 ## 🖥️ Dashboard Preview
 ![Project Management Dashboard](https://github.com/mdfaiazalam/Project-Managemet-Dashboard-PBI/blob/main/dashboard.png)
